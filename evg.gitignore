@@ -1,10 +1,4 @@
 # ==================== Виртуальные окружения Python ====================
 
-# Стандартное имя env
-env/
+# _env
 
-# Файлы активации 
-activate
-activate.bat
-Activate.ps1
-activate.fish
